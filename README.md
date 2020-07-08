@@ -1,0 +1,1 @@
+# livroPythonForDataAnalysis_WesMcKinney
