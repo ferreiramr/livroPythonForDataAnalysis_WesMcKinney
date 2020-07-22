@@ -6,3 +6,4 @@
 
 [Capítulo 01 - Preliminares](chapter01_Preliminaries.ipynb)
 [Capítulo 02 - Básico da linguagem Python, IPython e Jupyter Notebooks](chapter02_PythonLanguegeBasicsIPythonAndJupyterNotebooks.ipynb)
+[Capítulo 03 - Estruturas de dados *Built-in*, funcões e arquivos](chapter03_builtinDataStructuresFuncitionsAndFiles.ipynb)
